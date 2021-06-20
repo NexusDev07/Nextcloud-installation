@@ -30,6 +30,8 @@ The Nextcloud module for WiseCP allows you to offer your customers data storage 
 <b>4 - </b>In the field for the username, enter your Nextcloud username. And in the field for the password, enter your Nextcloud password. Then enter the other information requested in the other fields.
 <br />
 <font color="orange"><b>Caution!</b> The credentials you enter must provide access to the administrator panel.</font>
+<br />
+<br />
 <b>5 - </b>Click on the button to add the server.
 <br />
 <br />
