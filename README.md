@@ -27,7 +27,7 @@ The Nextcloud module for WiseCP allows you to offer your customers data storage 
 <b>3 - </b>Select the Nextcloud module.
 <br />
 <br />
-<b>4 - </b>In the field for the username, enter your Nextcloud username. And in the field for the password, enter your Nextcloud password. Then enter the other information requested in the other fields.
+<b>4 - </b>In the field for the IP address of the server, enter the URL of your Nextcloud (ex: <code>nextcloud.domain.ext</code>). In the field for the the username, enter your Nextcloud username. And in the field for the password, enter your Nextcloud password. Then enter the other information requested in the other fields.
 <br />
 <font color="orange"><b>Caution!</b> The credentials you enter must provide access to the administrator panel.</font>
 <br />
@@ -42,11 +42,11 @@ The Nextcloud module for WiseCP allows you to offer your customers data storage 
 <b>2 - </b>Click on the button to create a new product.
 <br />
 <br />
-<b>3 - </b>In the "Core" part, select the server configured for Nextcloud, and indicate the quota you wish to allocate in the "Quota" field.
+<b>3 - </b>In the "Core" part, select the server configured for Nextcloud, and indicate the quota you wish to allocate in the "Quota" field. If you want your customers to be able to create other users on their quota, select the "Enable reseller" box (the <a href="https://apps.nextcloud.com/apps/groupquota">Group quota</a> module is required on your Nextcloud server).
 <br />
 <br />
 <b>4 - </b>Click on the button to create the product.
 <br />
 <br />
 <br />
-<b>For any questions, bug reports, suggestions... do not hesitate to contact us by email at <code>contact@netheberg.fr</code>.</b>
+<b>For any questions, bug reports, suggestions... do not hesitate to contact us by email at <code>developer@easygohost.net</code>.</b>
